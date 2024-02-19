@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me Nikhil26122003@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
 
 <!---
 NikhilGupta261/NikhilGupta261 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
