@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @NikhilGupta261
+- 👋 Hi, I’m Nikhil Gupta
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me Nikhil26122003@gmail.com
 
 <!---
